@@ -1,5 +1,5 @@
 # Facebook-Mutual-Friend
-Konfirmasi pertemanan dan hapus pertemanan berdasarkan jumlah facebook mutual friend (teman yang sama)
+Konfirmasi pertemanan, hapus pertemanan, dan tambah pertemanan dari orang yang mungkin anda kenal berdasarkan jumlah facebook mutual friend (teman yang sama)
 
 --- 
 
